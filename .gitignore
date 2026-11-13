@@ -1,0 +1,8 @@
+# Ignore raw source archives and temporary files
+assets/
+*.jfif
+*.docx
+*.zip
+preview_*.png
+.DS_Store
+Thumbs.db
